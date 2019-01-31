@@ -1,0 +1,34 @@
+# Site settings
+title: "Adelino P Mazuti"
+email: amazuti@gmail.com
+description: "My page"
+baseurl: ""
+url: "https://amazuti.github.io"
+title_description: ""
+title_image: "https://pt.gravatar.com/userimage/23179829/d51aaa8b91ac3b79a68a7b61f62f87fa.jpeg"
+google_analytics: ""
+disqus_account: amazuti
+github_repository: https://github.com/amazuti
+addthis_id:
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: Adelinopmazuti
+github_username:  amazuti
+instagram_username: amazuti
+linkedin_link: https://www.linkedin.com/in/adelinoprimomazuti/
+
+
+# Footer
+footer_left: "<i class=\"></i> by <a href=\"https://twitter.com/adelinopmazuti\">Adelino P Mazuti</a>"
+footer_right: "<a href=\"https://github.com/amazuti \">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
