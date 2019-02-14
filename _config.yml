@@ -5,7 +5,7 @@ description: "My page"
 baseurl: ""
 url: "https://amazuti.github.io"
 title_description: ""
-title_image: "https://pt.gravatar.com/userimage/23179829/d51aaa8b91ac3b79a68a7b61f62f87fa.jpeg"
+title_image: "/images/author/adelino.png"
 google_analytics: ""
 disqus_account: amazuti
 github_repository: https://github.com/amazuti
