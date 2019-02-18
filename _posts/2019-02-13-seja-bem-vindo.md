@@ -4,7 +4,7 @@ title:      My webpage
 date:       2019-02-13 17:59:19
 author:     Adelino P Mazuti
 summary:
-categories: jekyll
+categories: About
 thumbnail:
 tags:
  - Seja
